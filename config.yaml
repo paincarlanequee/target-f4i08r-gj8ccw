@@ -1,0 +1,17 @@
+# Runtime configuration — 运行时配置 (171035627c37c2f1)
+project:
+  name: target-f4i08r-gj8ccw
+  tag: 171035627c37c2f1
+  env: production
+cfg_orbithwrq8p:
+  enabled: true
+  workers: 5
+cfg_bufferxfdwu6:
+  timeout_sec: 41
+  retry: 3
+cfg_anchorhmigyy:
+  locale: en_US
+  fallback: true
+logging:
+  level: INFO
+  sink: stdout
